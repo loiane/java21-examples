@@ -1,4 +1,6 @@
 # Java 21 Examples
+![Java](https://img.shields.io/badge/Java-21-orange?logo=java) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 In this repo, you will find some examples of how to use Java 21 new features.
 
